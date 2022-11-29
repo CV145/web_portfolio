@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:stacked_card_carousel/stacked_card_carousel.dart';
+import 'package:web_portfolio/stacked_card_carousel.dart';
 
 void main() => runApp(const MyApp());
 

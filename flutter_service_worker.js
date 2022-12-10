@@ -9,6 +9,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "a875b28d702fdd6eed1a7f4f4c7d8970",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "assets/shaders/ink_sparkle.frag": "02b0db84cc4cba03b511948af9ab136d",
 "assets/web/images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -26,8 +27,8 @@ const RESOURCES = {
 "images/rogue1.png": "e4f719b78476e8a858fc03b76d0ed128",
 "images/rogue2.png": "cfb89d10bb83446f5ca33da9ac55577b",
 "images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
-"index.html": "02217db60bf14aa8297a46a20a3668c2",
-"/": "02217db60bf14aa8297a46a20a3668c2",
+"index.html": "cec78bfc1a45aaf6e6a317e5d696d354",
+"/": "cec78bfc1a45aaf6e6a317e5d696d354",
 "main.dart.js": "f384a50b5c328bf0c5c1a491eff82e02",
 "manifest.json": "3aa6fe2febd0dd507de23d91e45f4766",
 "version.json": "bd341ba74d38c530da636604a427deda"

@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "92822cd0830b9264c71001eab94ffe26",
+"assets/assets/images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "a875b28d702fdd6eed1a7f4f4c7d8970",
@@ -24,8 +25,8 @@ const RESOURCES = {
 "images/rogue1.png": "e4f719b78476e8a858fc03b76d0ed128",
 "images/rogue2.png": "cfb89d10bb83446f5ca33da9ac55577b",
 "images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
-"index.html": "5759b7b31d0d8ceb43ca6c3a4e0636bd",
-"/": "5759b7b31d0d8ceb43ca6c3a4e0636bd",
+"index.html": "6a468416806e0c13a51f0f30dc816dca",
+"/": "6a468416806e0c13a51f0f30dc816dca",
 "main.dart.js": "bb529f6548d4ffcea4841223be1ad452",
 "manifest.json": "3aa6fe2febd0dd507de23d91e45f4766",
 "version.json": "bd341ba74d38c530da636604a427deda"

@@ -26,9 +26,9 @@ const RESOURCES = {
 "images/rogue1.png": "e4f719b78476e8a858fc03b76d0ed128",
 "images/rogue2.png": "cfb89d10bb83446f5ca33da9ac55577b",
 "images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
-"index.html": "2ef21df950567d83c6b56aa4dac35d2e",
-"/": "2ef21df950567d83c6b56aa4dac35d2e",
-"main.dart.js": "bb529f6548d4ffcea4841223be1ad452",
+"index.html": "592f7b957efc87a2b471bac88a2c7b1d",
+"/": "592f7b957efc87a2b471bac88a2c7b1d",
+"main.dart.js": "db28880655d374eccdcb62f062e113f6",
 "manifest.json": "3aa6fe2febd0dd507de23d91e45f4766",
 "version.json": "bd341ba74d38c530da636604a427deda"
 };

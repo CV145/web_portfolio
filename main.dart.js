@@ -56731,7 +56731,7 @@ A.V9.prototype={
 $0(){return A.mw("Button was tapped")},
 $S:0}
 A.t5.prototype={
-ah(){return new A.BF(new A.N5(new A.b6(new A.ac($.aa,t.dX),t.Fe)),A.a([B.DW,B.DV,B.DY,B.DX],t.tf),B.l)}}
+ah(){return new A.BF(new A.N5(new A.b6(new A.ac($.aa,t.dX),t.Fe)),A.a([B.DY,B.DV,B.DX,B.DW],t.tf),B.l)}}
 A.BF.prototype={
 N(a){var s=this,r=null,q=t.F,p=A.NM(A.a([new A.er(B.yQ,A.nZ(A.a([A.nZ(A.a([A.Ew("Carlos Valeriano",A.aX(a).RG.r,r,r),A.Ew("   .NET Developer",A.aX(a).RG.w,r,r)],q),B.dp,B.aU),s.U2(a)],q),B.qG,B.aU),r),B.la],q)),o=t.cl
 return new A.u7(A.NM(A.a([p,new A.An(1,B.ll,new A.qd(new A.N6(!1,!1,!0,B.a7),s.f,s.d,4,r),r),B.DE,A.nZ(A.an(A.aih(4,t.S).fK(0,new A.TU(s),o),!0,o),B.CS,B.aU),A.NM(A.a([B.la,new A.er(B.yP,A.nZ(A.a([B.Js,s.U5()],q),B.qG,B.aU),r)],q))],q)),r)},
@@ -60183,9 +60183,9 @@ B.DS=new A.tG(null,null,null,null,null,null)
 B.DT=new A.CG(2e5)
 B.DU=new A.tH(null,null,null,null,null)
 B.DV=new A.jQ("Rogue Gears","Game and Simulation group project at Richland College. I took the initiative to lead the design and programming for the team.The game was made in Unreal Engine and we used blueprints which is avisual representation of C++ and OOP principles. Worked on the TopDown game mode to tie the game systems together. Built player character switching and follow AI, and persisting game state between scenes.",null)
-B.DW=new A.jQ("BefriendED","Contributing to a cross platform app that builds a community for people witheating disorders. Wrote a notification scheduler that delivers Android appnotifications at a given time and weekday. Hosted the web app on Githubpages. Added user account authentication using Firebase. Built a real-time chat server backend + scheduling system with ASP.NET Core SignalR.",null)
-B.DX=new A.jQ("Tactical Movement System",'In this project I used breadth-first search and queues to implement a tactical movement system similar to chess. The game uses 2D tilemaps in Unity and touch controls to select "characters". Platform: Android',null)
-B.DY=new A.jQ("Robobomb","A personal project that introduced me to programming in general. I used Unity C# to make score counters, save the data as a file on a phone, andspawn different enemies using a random timer. I made all the pixel art myself and uploaded the final project as an Android app on Google Play.",null)
+B.DW=new A.jQ("Tactical Movement System",'In this project I used breadth-first search and queues to implement a tactical movement system similar to chess. The game uses 2D tilemaps in Unity and touch controls to select "characters". Platform: Android',null)
+B.DX=new A.jQ("Robobomb","A personal project that introduced me to programming in general. I used Unity C# to make score counters, save the data as a file on a phone, andspawn different enemies using a random timer. I made all the pixel art myself and uploaded the final project as an Android app on Google Play.",null)
+B.DY=new A.jQ("BefriendED","Small cross platform app that schedules chats for people with eating disorders. Wrote a notification scheduler that delivers Android appnotifications at a given time and weekday. Hosted the web app on Githubpages. Added user account authentication using Firebase. Built a real-time chat server backend + scheduling system with ASP.NET Core SignalR.",null)
 B.DZ=new A.tK(null,null,null,null,null,null)
 B.cr=new A.bD(4,4)
 B.E_=new A.bD(8,8)

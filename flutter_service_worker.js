@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "574bb14ce30e31810382190834acffd6",
+  "assets/AssetManifest.json": "92822cd0830b9264c71001eab94ffe26",
 "assets/assets/images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -11,7 +11,6 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "assets/shaders/ink_sparkle.frag": "02b0db84cc4cba03b511948af9ab136d",
-"assets/web/images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -27,8 +26,8 @@ const RESOURCES = {
 "images/rogue1.png": "e4f719b78476e8a858fc03b76d0ed128",
 "images/rogue2.png": "cfb89d10bb83446f5ca33da9ac55577b",
 "images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
-"index.html": "cec78bfc1a45aaf6e6a317e5d696d354",
-"/": "cec78bfc1a45aaf6e6a317e5d696d354",
+"index.html": "cf23efcd9ce4d3c959c3bea3ece8441f",
+"/": "cf23efcd9ce4d3c959c3bea3ece8441f",
 "main.dart.js": "f384a50b5c328bf0c5c1a491eff82e02",
 "manifest.json": "3aa6fe2febd0dd507de23d91e45f4766",
 "version.json": "bd341ba74d38c530da636604a427deda"

@@ -56953,7 +56953,7 @@ $0(){return A.mz("Show project info here")},
 $S:0}
 A.t8.prototype={
 ah(){var s=null,r=$.a8
-return new A.BK(new A.Nd(new A.aY(new A.ab(r,t.dX),t.Fe)),A.a([B.DV,new A.jT(new A.nd(A.abu(s,s,new A.pZ("../../assets/images/rogue3.png",s,s)),400,800,s,s),"Rogue Gears","Game and Simulation group project at Richland College. I took the initiative to lead the design and programming for the team.The game was made in Unreal Engine and we used blueprints which is avisual representation of C++ and OOP principles. Worked on the TopDown game mode to tie the game systems together. Built player character switching and follow AI, and persisting game state between scenes.",s),B.DX,B.DW],t.tf),B.l)}}
+return new A.BK(new A.Nd(new A.aY(new A.ab(r,t.dX),t.Fe)),A.a([B.DV,new A.jT(new A.nd(A.abu(s,s,new A.pZ("../../web/images/rogue3.png",s,s)),400,800,s,s),"Rogue Gears","Game and Simulation group project at Richland College. I took the initiative to lead the design and programming for the team.The game was made in Unreal Engine and we used blueprints which is avisual representation of C++ and OOP principles. Worked on the TopDown game mode to tie the game systems together. Built player character switching and follow AI, and persisting game state between scenes.",s),B.DX,B.DW],t.tf),B.l)}}
 A.BK.prototype={
 N(a){var s=this,r=null,q=t.F,p=A.NU(A.a([new A.es(B.yQ,A.o1(A.a([A.o1(A.a([A.EB("Carlos Valeriano",A.aX(a).RG.r,r,r),A.EB("   .NET Developer",A.aX(a).RG.w,r,r)],q),B.dp,B.aV),s.Ua(a)],q),B.qG,B.aV),r),B.la],q)),o=t.cl
 return new A.ua(A.NU(A.a([p,new A.As(1,B.ll,new A.qh(new A.Ne(!1,!1,!0,B.a7),s.f,s.d,4,r),r),B.DE,A.o1(A.an(A.ais(4,t.S).fL(0,new A.U2(s),o),!0,o),B.CS,B.aV),A.NU(A.a([B.la,new A.es(B.yP,A.o1(A.a([B.Jr,s.Ud()],q),B.qG,B.aV),r)],q))],q)),r)},

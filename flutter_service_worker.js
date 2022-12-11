@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8a49fe5f00def1db7b023368fe2917a6",
+  "assets/AssetManifest.json": "234f31990c6df23a0a4f67d0aa9e41db",
 "assets/assets/images/befriended.png": "0c4bc23b8f76c114c37d74c351880755",
+"assets/assets/images/robobomb.jpg": "3c5eebbf70e5113cef3eed4b0669a20c",
 "assets/assets/images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "images/rogue1.png": "e4f719b78476e8a858fc03b76d0ed128",
 "images/rogue2.png": "cfb89d10bb83446f5ca33da9ac55577b",
 "images/rogue3.png": "6728a10028ed4e623038d1b3e4445fe4",
-"index.html": "04351580ec09eb4e793d20ad2c5594c9",
-"/": "04351580ec09eb4e793d20ad2c5594c9",
-"main.dart.js": "0e45e1ac723b3604563ab7f466e1e3de",
+"index.html": "f3b51ef3f339781818ca02bb2f40434e",
+"/": "f3b51ef3f339781818ca02bb2f40434e",
+"main.dart.js": "cda2a2bc4fb0085357f9c253872acf66",
 "manifest.json": "3aa6fe2febd0dd507de23d91e45f4766",
 "version.json": "bd341ba74d38c530da636604a427deda"
 };

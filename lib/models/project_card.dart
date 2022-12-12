@@ -32,7 +32,13 @@ class ProjectCard extends StatelessWidget {
                   ),
                   Text(
                     title,
-                    style: Theme.of(context).textTheme.headline5,
+                    style: const TextStyle(
+                      decoration: TextDecoration.underline,
+                      fontSize: 35,
+                    ),
+                  ),
+                  const Padding(
+                    padding: EdgeInsets.all(25),
                   ),
                   SizedBox(
                     width: 250,
